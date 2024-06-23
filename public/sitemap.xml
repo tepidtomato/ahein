@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ahein/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-19T13:02:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ahein/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-19T13:02:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ahein/posts/stop-giving-companies-your-real-emaildo-this-instead/</loc>
+    <loc>http://localhost:1313/posts/stop-giving-companies-your-real-emaildo-this-instead/</loc>
     <lastmod>2024-06-19T13:02:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ahein/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/ahein/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ahein/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

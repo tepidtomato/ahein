@@ -1,4 +1,4 @@
-baseURL = "https://tepidtomato.github.io/ahein/"
+baseURL = "https://tepidtomato.github.io/"
 title = "Andrew Heinzman"
 languageCode = "en-us"
 theme = "devise"
