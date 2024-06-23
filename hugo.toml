@@ -21,7 +21,7 @@ copyright = "&copy; 2024, Andrew Heinzman"
     identifier = "portfolio"
     name = "Portfolio"
     title = "Portfolio"
-    url = "/posts/"
+    url = "/portfolio/"
     weight = -100
 
 # Configuration Features
