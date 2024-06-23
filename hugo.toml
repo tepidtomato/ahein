@@ -1,0 +1,47 @@
+baseURL = "https://github.com/tepidtomato/ahein"
+title = "Andrew Heinzman"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; 2024, Andrew Heinzman"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    title = "Portfolio"
+    url = "/posts/"
+    weight = -100
+
+# Configuration Features
+[params]
+  description = "This is the portfolio and landing page for Andrew Heinzman, an editor and technology journalist."      # Your meta description of the site
+  header_title = "Andrew Heinzman"                 # Your header title
+  header_subtitle = "Technology journalist, editor, copywriter." # Your header subtitle
+  home_image = "/images/avatar.png"          # Path to header image starting from the static directory (optional)
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    homeImageBorderColor = "#ffffff"
+    fontFamilyBase = "Helvetica Neue"        # First-choice font
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"     # Font Awesome Icons
+    href = "https://www.linkedin.com/in/andrew-heinzman/"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "mailto:heinzmanwriting@gmail.com"
+ [[params.social]]
+    fa_icon = "fab fa-mastodon fa-1x"
+    href = "https://mastodon.social/@andrewheinzman"
