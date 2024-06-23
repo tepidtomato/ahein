@@ -1,4 +1,5 @@
 baseURL = "https://tepidtomato.github.io/"
+publishDir = "docs"
 title = "Andrew Heinzman"
 languageCode = "en-us"
 theme = "devise"
