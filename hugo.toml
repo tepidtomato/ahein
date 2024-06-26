@@ -6,7 +6,7 @@ theme = "devise"
 relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 copyright = "&copy; 2024, Andrew Heinzman"
 
 # Main menu items

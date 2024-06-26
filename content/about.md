@@ -11,6 +11,6 @@ Andrew currently serves as an editor at How-To Geek and previously held the posi
 
 ### Education 🎓
 
-Andrew graduated from the University of North Florida with a Bachelor's in English Literature. 
+Graduated from the University of North Florida with a Bachelor's in English Literature. 
 
 

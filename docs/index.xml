@@ -7,14 +7,28 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024, Andrew Heinzman</copyright>
-    <lastBuildDate>Wed, 19 Jun 2024 13:02:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Connect Now Supports All Pi Models</title>
+      <link>http://localhost:1313/portfolio/raspberry-pi-remote-access-tool-update/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/raspberry-pi-remote-access-tool-update/</guid>
+      <description>Raspberry Pi&amp;rsquo;s Remote Access Tool Now Supports All Pi Models This article was originally published at How-To Geek.&#xA;It&amp;rsquo;s been just over a month since the launch of Raspberry Pi Connect, an official remote access tool that allows you to control your Pi computer from a web browser. Today, Raspberry Pi Connect is rolling out support for 32-bit Pi computers. The new Connect release also includes a remote shell access feature.</description>
+    </item>
     <item>
       <title>Stop Giving Companies Your Real Email—Do This Instead</title>
       <link>http://localhost:1313/portfolio/dont-give-companies-your-email-address/</link>
-      <pubDate>Wed, 19 Jun 2024 13:02:38 -0400</pubDate>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/dont-give-companies-your-email-address/</guid>
       <description>Stop Giving Companies Your Real Email—Do This Instead This article was originally published at How-To Geek.&#xA;Ad agencies and hackers have something in common—they want to know our email addresses. We unwitting give this information away every time we sign up for a website, leaving ourselves increasingly exposed to spam, ad profiling, and cyberattacks.&#xA;Thankfully, you can prevent your email address from being weaponized. You just need to use email aliases.</description>
+    </item>
+    <item>
+      <title>How to Add More Inputs to an Audio Interface</title>
+      <link>http://localhost:1313/portfolio/how-to-add-more-inputs-to-an-audio-interface/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/how-to-add-more-inputs-to-an-audio-interface/</guid>
+      <description>How to Add More Inputs to an Audio Interface This article was originally published at How-To Geek.&#xA;As you get deeper into podcasting, music recording, or voiceover work, you may find that your audio interface doesn&amp;rsquo;t have enough inputs. Thankfully, you don&amp;rsquo;t need to buy a brand-new interface. You can simply add new channels to the audio interface you already own. Connect an External Preamp to Your Interface via ADAT Look at the rear of your audio interface.</description>
     </item>
     <item>
       <title></title>

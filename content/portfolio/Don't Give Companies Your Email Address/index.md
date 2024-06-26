@@ -1,9 +1,9 @@
 +++
 title = 'Stop Giving Companies Your Real Email—Do This Instead'
-date = 2024-06-19T13:02:38-04:00
+date = 2024-06-19
 +++
 
-![image](hero.webp)
+![Illustration of an ampersand symbol.](hero.webp)
 
 # Stop Giving Companies Your Real Email—Do This Instead
 
@@ -38,7 +38,7 @@ Email aliases also come with a certain amount of risk—if the company that's ho
 
 ## Which Email Alias Service Should You Use?
 
-![image](body1.webp)
+![Screenshot of the Hide My Email interface in macOS.](body1.webp)
 
 There are several email alias services to choose from. And, aside from some differences in usability or payment structure, they all perform the same basic task. 
 
